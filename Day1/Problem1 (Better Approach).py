@@ -13,3 +13,6 @@ class Solution(object):
             elif s < target:
                 left += 1
         return None
+
+
+#create an avatar for user

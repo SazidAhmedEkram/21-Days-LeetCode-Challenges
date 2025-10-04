@@ -13,10 +13,4 @@ class Solution(object):
             elif s < target:
                 left += 1
         return None
-
-
-#create an avatar for user
-# I'm at feature 2
-
-# admin can add and removes
-# Hello Hi
+#Updated

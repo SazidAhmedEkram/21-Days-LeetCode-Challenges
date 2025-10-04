@@ -13,5 +13,3 @@ class Solution(object):
             elif s < target:
                 left += 1
         return None
-#Updated
-#new feature

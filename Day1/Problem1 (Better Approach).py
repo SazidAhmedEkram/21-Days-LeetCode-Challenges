@@ -17,3 +17,5 @@ class Solution(object):
 
 #create an avatar for user
 # I'm at feature 2
+
+# admin can add and removes

@@ -9,3 +9,8 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 ### **Problem 2:** Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 **Problem Link:** https://leetcode.com/problems/valid-anagram/description/
+
+
+### **Problem 3:** Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
+**Problem Link:** https://leetcode.com/problems/group-anagrams/description/

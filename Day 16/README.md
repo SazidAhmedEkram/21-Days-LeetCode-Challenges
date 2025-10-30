@@ -1,3 +1,10 @@
+##### **Problem 1:** Write a function that reverses a string. The input string is given as an array of characters s.
+
+You must do this by modifying the input array in-place with O(1) extra memory.
+
+**Problem Link:** https://leetcode.com/problems/reverse-string/description/
+
+
 ##### **Problem 2:** Given an array of integers nums, calculate the pivot index of this array.
 
 The pivot index is the index where the sum of all the numbers strictly to the left of the index is equal to the sum of all the numbers strictly to the index's right.
